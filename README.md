@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vue-tutorial
 
 > A Vue.js project
@@ -18,8 +17,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# vue-tutorial
->>>>>>> 3348d399ba5e54f9db3e14fd85717bed1b8b99fb
